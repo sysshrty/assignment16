@@ -16,6 +16,5 @@
     "mongodb": "^6.5.0",
     "mongoose": "^8.2.4",
     "muller": "^1.1.0"
-  },
-  "devDependencies": {}
+  }
 }
