@@ -14,6 +14,8 @@
     "express": "^4.19.2",
     "joi": "^17.12.2",
     "mongodb": "^6.5.0",
+    "mongoose": "^8.2.4",
     "muller": "^1.1.0"
-  }
+  },
+  "devDependencies": {}
 }
